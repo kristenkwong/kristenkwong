@@ -1,6 +1,6 @@
 # Hey, I'm Kristen! 👋
 
-I'm an incoming software engineer at Apple on the Siri Client team. I recently graduated from the University of British Columbia, where I studied Computer Science. I like learning and building stuff related to operating systems and compilers!
+I'm currently a software engineer at Apple on the Siri Client team. I graduated from the University of British Columbia, where I studied Computer Science. I like learning and building stuff related to operating systems and compilers!
 
 ## Previously...
 
@@ -12,7 +12,8 @@ I'm an incoming software engineer at Apple on the Siri Client team. I recently g
 
 - I make websites and do web design for fun.
 - I paint and draw sometimes.
-- I enjoy playing video games. Recently, I've been playing a lot of League of Legends, Star Wars Jedi: Fallen Order, and Teamfight Tactics.
+- I am learning to train my Formosan Mountain Dog rescue from Taiwan, focussing on behaviour modification, obedience, and cooperative care. I've bought way too many R+ dog training books and am currently taking courses on [Fenzi Dog Sports Academy](https://www.fenzidogsportsacademy.com).
+- I enjoy playing video games. Recently, I've been playing a lot of Fortnite, League of Legends, Star Wars Jedi: Fallen Order, and Teamfight Tactics.
 
 ## Reach out to me via
 
